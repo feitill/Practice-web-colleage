@@ -1,2 +1,2 @@
 # Practice-web-colleage
-A practice project of learning web technology 
+I set up this repository for learning WEB technology,HTML5&JS,which dominates the project.
